@@ -30,7 +30,7 @@ Cualquier argumento pasado en `list` es convertiendo en `string`, puedes especí
 
 ## inspect:`makeField(_index, _value, tabs)`
 
-Crea una línea de una tabla en base a `_index` y `_value` al igual que [encode](); regresa una `string` convertido.
+Crea una línea de una tabla en base a `_index` y `_value` al igual que [encode]()https://github.com/Corotyest/inspect#inspectencodelist-tabs-tag-o-inspect; regresa una `string` convertido.
 
 ## inspect:`getn(list)`
 
