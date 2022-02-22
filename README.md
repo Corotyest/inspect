@@ -24,11 +24,11 @@ lit install Corotyest/inspect
 
 # Funciones
 
-## inspect:`encode(list, tabs, tag)` o `inspect(...)`
+## inspect:`encode(list, tabs?, tag?)` o `inspect(...)`
 
-Cualquier argumento pasado en `list` es convertiendo en `string`, puedes específicar cierta cantidad de `tabs` para el cáracter especíal `'\n'`, el argumento `tag` es usado para identificar `userdata` pero no necesario usarse (convencionalmente).
+Cualquier argumento pasado en `list` es convertiendo en `string`, puedes específicar cierta cantidad de `tabs` para el cáracter especíal `'\t'`, el argumento `tag`que es usado para identificar `userdata` pero no necesario usarse (convencionalmente).
 
-## inspect:`makeField(_index, _value, tabs)`
+## inspect:`makeField(_index, _value, tabs?)`
 
 Crea una línea de una tabla en base a `_index` y `_value` al igual que [encode](https://github.com/Corotyest/inspect#inspectencodelist-tabs-tag-o-inspect); regresa una `string` convertido.
 
