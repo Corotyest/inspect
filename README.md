@@ -1,3 +1,6 @@
+Crear documentación para funciones nuevas o editadas. :)
+---
+
 # Inspect
 De la palabra en inglés inspect; 'inspector' de tipos en Lua.<br>
 Puedes usar este modulo de varias maneras e instalarlo con `lit` en: [luvit](https://www.luvit.io).
